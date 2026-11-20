@@ -1,4 +1,4 @@
-name: Build floatip APK
+name: Build luci-app-floatip APK
 
 on:
   workflow_dispatch:
